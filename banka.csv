@@ -1,0 +1,602 @@
+,sorgu,label,le
+0,kredi kartımı kaybettim,kartkayip,1
+1,banka kartımı kaybettim,kartkayip,1
+2,kredi kartımı bulamıyorum,kartkayip,1
+3,kredi kartım çalındı,kartkayip,1
+4,kredi kartımın olduğunu bilmiyorum,kartkayip,1
+5,kredi kartımın olduğu çüzdan çalındı,kartkayip,1
+6,kredi kartım kayboldu,kartkayip,1
+7,banka kartım kayboldu,kartkayip,1
+8,banka kartımı bulamıyorum,kartkayip,1
+9,banka kartım çalındı,kartkayip,1
+10,banka kartımın olduğunu bilmiyorum,kartkayip,1
+11,banka kartımın olduğu cüzdan çalındı,kartkayip,1
+12,banka kartım kayboldu,kartkayip,1
+13,kredi kartımı unuttum,kartkayip,1
+14,banka kartımı unuttum,kartkayip,1
+15,kredi kartımı arıyorum,kartkayip,1
+16,banka kartımı arıyorum,kartkayip,1
+17,kredi kartımı bulamıyorum,kartkayip,1
+18,banka kartımı bulamıyorum,kartkayip,1
+19,kredi kartımı kaybetmiş olabilirim,kartkayip,1
+20,banka kartımı kaybetmiş olabilirim,kartkayip,1
+21,kredi kartım çalınmış olabilir,kartkayip,1
+22,banka kartım çalınmış olabilir,kartkayip,1
+23,kredi kartımın yerini hatırlamıyorum,kartkayip,1
+24,banka kartımın yerini hatırlamıyorum,kartkayip,1
+25,kredi kartımın yerini unuttum,kartkayip,1
+26,banka kartımın yerini unuttum,kartkayip,1
+27,kredi kartımın yerini bulamıyorum,kartkayip,1
+28,banka kartımın yerini bulamıyorum,kartkayip,1
+29,kredi kartımı çaldırdım,kartkayip,1
+30,banka kartımı çaldırdım,kartkayip,1
+31,kredi kartımı bulamıyorum yardım eder misiniz ,kartkayip,1
+32,banka kartımı bulamıyorum yardım eder misiniz ,kartkayip,1
+33,kredi kartımın kaybolduğunu düşünüyorum,kartkayip,1
+34,banka kartımın kaybolduğunu düşünüyorum,kartkayip,1
+35,kredi kartımı bulmak yapmalıyım ,kartkayip,1
+36,banka kartımı bulmak yapmalıyım ,kartkayip,1
+37,kredi kartımın kaybolduğunu bildirmeliyim ,kartkayip,1
+38,banka kartımın kaybolduğunu bildirmeliyim ,kartkayip,1
+39,kredi kartımı çaldırdım yapmalıyım ,kartkayip,1
+40,banka kartımı çaldırdım yapmalıyım ,kartkayip,1
+41,kredi kartımın çalındığını anlarım ,kartkayip,1
+42,banka kartımın çalındığını anlarım ,kartkayip,1
+43,kredi kartımın çalındığını rapor ederim ,kartkayip,1
+44,banka kartımın çalındığını rapor ederim ,kartkayip,1
+45,kredi kartımın kullanıldığını kontrol ederim ,kartkayip,1
+46,banka kartımın kullanıldığını kontrol ederim ,kartkayip,1
+47,kredi kartımı kaybetmişsem yapmalıyım ,kartkayip,1
+48,banka kartımı kaybetmişsem yapmalıyım ,kartkayip,1
+0,kredi kartı borcumu ödemek istiyorum,borcodeme,0
+1,kart borcumu ödemek istiyorum,borcodeme,0
+2,bu ayki kredi kartı ödememi yapmak istiyorum,borcodeme,0
+3,kredi kartı borcu ödemek istiyorum,borcodeme,0
+4,kredi kartı borcumun asgari tutarını ödemek istiyorum,borcodeme,0
+5,kart borcumu ödeyecem,borcodeme,0
+6,kredi kartı borcu ödeme,borcodeme,0
+7,borç ödeme,borcodeme,0
+8,kredi kartı borcumu kapatmak istiyorum,borcodeme,0
+9,kart borcumu kapatmak istiyorum,borcodeme,0
+10,kredi kartı ödememi gerçekleştirmek istiyorum,borcodeme,0
+11,bu ayki borcumu ödeyebilir miyim ,borcodeme,0
+12,kredi kartı borç ödeme planımı görmek istiyorum,borcodeme,0
+13,kredi kartı borcumu online ödemek istiyorum,borcodeme,0
+14,kredi kartı borcumu hemen ödemek istiyorum,borcodeme,0
+15,kart borcumun tamamını kapatmak istiyorum,borcodeme,0
+16,kredi kartı borcumun detaylarını görmek istiyorum,borcodeme,0
+17,borçlarımı düzenli bir şekilde ödemek istiyorum,borcodeme,0
+18,kredi kartı borcumu hızlı bir şekilde ödemek istiyorum,borcodeme,0
+19,kredi kartı borcumun ödeme tarihini öğrenmek istiyorum,borcodeme,0
+20,kart borcumu hemen ödüyorum,borcodeme,0
+21,kredi kartı borcumu kapatma seçenekleri neler ,borcodeme,0
+22,kart borcumu ödeyebilirim ,borcodeme,0
+23,bu ayki kredi kartı borcumu öğrenebilirim ,borcodeme,0
+24,kredi kartı borcumu taksitli ödemek istiyorum,borcodeme,0
+25,kart borcumu taksitlendirme,borcodeme,0
+26,kredi kartı borcumu yarıda bırakmak istiyorum,borcodeme,0
+27,kart borcumun minimum tutarını ödemek istiyorum,borcodeme,0
+28,kredi kartı borcumu ödeme konusunda yardım istiyorum,borcodeme,0
+29,kart borcumu düzenli olarak ödemek istiyorum,borcodeme,0
+30,kredi kartı borcumu bir seferde ödemek istiyorum,borcodeme,0
+31,kart borcumu zaman ödemeliyim ,borcodeme,0
+32,bu ayki kredi kartı ödemesini kaçırmak istemiyorum,borcodeme,0
+33,kredi kartı borcumu indirimli ödemek istiyorum,borcodeme,0
+34,kart borcumu hemen kapatmak istiyorum,borcodeme,0
+35,kredi kartı borcumu ödeyebilmek yapmalıyım ,borcodeme,0
+36,kart borcumu ödeme seçenekleri neler ,borcodeme,0
+37,kredi kartı borcumu kapatmak uygun bir yol arıyorum,borcodeme,0
+38,bu ayki kredi kartı ekstremi ödeme zamanımı öğrenmek istiyorum,borcodeme,0
+39,kart borcumu online bankacılık üzerinden ödemek istiyorum,borcodeme,0
+40,kredi kartı borcumu düzenli olarak kontrol etmek istiyorum,borcodeme,0
+41,kart borcumu kapatmak kadar ödemem gerekiyor ,borcodeme,0
+42,kredi kartı borcumun güncel tutarını öğrenmek istiyorum,borcodeme,0
+43,kart borcumu hemen kapatmalı mıyım yoksa taksitlendirmeli miyim ,borcodeme,0
+44,kredi kartı borcumu bir defada kapatmak istiyorum,borcodeme,0
+45,kart borcumu kısa sürede ödemek istiyorum,borcodeme,0
+46,kredi kartı borcumu ödemek otomatik ödeme talimatı verebilir miyim ,borcodeme,0
+0,anneme para göndermek istiyorum,paragonderme,2
+1,para transferi yapmak istiyorum,paragonderme,2
+2,fast para göndermek istiyorum,paragonderme,2
+3,kayıtlı numaraya para transferi,paragonderme,2
+4,para göndermek istiyorum,paragonderme,2
+5,para transferi yapmak istiyorum,paragonderme,2
+6,eft para göndermek istiyorum,paragonderme,2
+7,havale para göndermek istiyorum,paragonderme,2
+8,anneme hemen para göndermek istiyorum,paragonderme,2
+9,hızlı bir şekilde para transferi yapmak istiyorum,paragonderme,2
+10,banka hesabına para göndermek istiyorum,paragonderme,2
+11,mobil uygulama üzerinden para transferi,paragonderme,2
+12,online olarak para göndermek istiyorum,paragonderme,2
+13,para transferi yapmalıyım ,paragonderme,2
+14,kolay bir şekilde para göndermek istiyorum,paragonderme,2
+15,anneme acil para göndermek istiyorum,paragonderme,2
+16,para gönderme işlemi yapılır ,paragonderme,2
+17,para transferi gereken bilgiler neler ,paragonderme,2
+18,hesap numarasına para transferi yapmak istiyorum,paragonderme,2
+19,kredi kartıyla para göndermek istiyorum,paragonderme,2
+20,para transferi ücretleri neler ,paragonderme,2
+21,mobil cüzdan üzerinden para göndermek istiyorum,paragonderme,2
+22,banka şubesinden para transferi,paragonderme,2
+23,hesap bilgilerini kullanarak para göndermek istiyorum,paragonderme,2
+24,para transferi işlem süresi nedir ,paragonderme,2
+25,anneme güvenli bir şekilde para göndermek istiyorum,paragonderme,2
+26,para gönderme limiti nedir ,paragonderme,2
+27,kredi kartıyla hızlı para transferi yapmak istiyorum,paragonderme,2
+28,havale ücretleri neler ,paragonderme,2
+29,para transferi yaparken nelere dikkat etmeliyim ,paragonderme,2
+30,banka hesabıma para göndermek istiyorum,paragonderme,2
+31,eft ücretleri nedir ,paragonderme,2
+32,mobil uygulama üzerinden hemen para göndermek istiyorum,paragonderme,2
+33,kredi kartıyla anında para transferi yapmak istiyorum,paragonderme,2
+34,para gönderme işlemi güvenli mi ,paragonderme,2
+35,havale yaparken nelere dikkat etmeliyim ,paragonderme,2
+36,para transferi sırasında hangi bilgiler gerekli ,paragonderme,2
+37,anneme online olarak para göndermek istiyorum,paragonderme,2
+38,fast hızlı para göndermek istiyorum,paragonderme,2
+39,hesap bilgileri olmadan para transferi yapabilir miyim ,paragonderme,2
+40,banka şubesine gitmeden para göndermek istiyorum,paragonderme,2
+41,para transferi yaparken alınan komisyonlar neler ,paragonderme,2
+42,havale işlemi gereken bilgiler neler ,paragonderme,2
+43,kredi kartıyla güvenli para transferi yapmak istiyorum,paragonderme,2
+44,para gönderme işlemi sonrasında bilgilendirme alabilirim ,paragonderme,2
+45,eft işlem süresi nedir ,paragonderme,2
+46,mobil cüzdan kolay para transferi yapmak istiyorum,paragonderme,2
+47,kredi kartımı kaybettim ne yapmalıyım,kartkayip,1
+48,banka kartımı kaybettim ne yapmalıyım,kartkayip,1
+49,kredi kartımı bulamıyorum yardım edin,kartkayip,1
+50,banka kartımı bulamıyorum yardım edin,kartkayip,1
+51,kredi kartımı çaldırdım ne yapmalıyım,kartkayip,1
+52,banka kartımı çaldırdım ne yapmalıyım,kartkayip,1
+53,kredi kartımı unuttum ne yapmalıyım,kartkayip,1
+54,banka kartımı unuttum ne yapmalıyım,kartkayip,1
+55,kredi kartımın kullanıldığını fark ettim ne yapmalıyım,kartkayip,1
+56,banka kartımın kullanıldığını fark ettim ne yapmalıyım,kartkayip,1
+57,kredi kartı borcumu ödeyemedim ne olacak,borcodeme,0
+58,kart borcumu ödeyemedim ne olacak,borcodeme,0
+59,kredi kartı borcumu taksitlendirme yapabilir miyim,borcodeme,0
+60,kart borcumu taksitlendirme yapabilir miyim,borcodeme,0
+61,kredi kartı borcumu ertelemek istiyorum,borcodeme,0
+62,kart borcumu ertelemek istiyorum,borcodeme,0
+63,kredi kartı borcumu kapatmak için para biriktiriyorum,borcodeme,0
+64,kart borcumu kapatmak için para biriktiriyorum,borcodeme,0
+65,kredi kartı borcumun faizleri ne kadar,borcodeme,0
+66,kart borcumun faizleri ne kadar,borcodeme,0
+67,kredi kartı borcumu ödemek için ek gelir arıyorum,borcodeme,0
+68,kart borcumu ödemek için ek gelir arıyorum,borcodeme,0
+69,kredi kartı borcumun son ödeme tarihi ne zaman,borcodeme,0
+70,kart borcumun son ödeme tarihi ne zaman,borcodeme,0
+71,kredi kartı borcumu ödemek için banka kredisi kullanabilirim,borcodeme,0
+72,kart borcumu ödemek için banka kredisi kullanabilirim,borcodeme,0
+73,kredi kartı borcumu bir arkadaşımın yardımıyla ödemek istiyorum,borcodeme,0
+74,kart borcumu bir arkadaşımın yardımıyla ödemek istiyorum,borcodeme,0
+75,kredi kartı borcumu indirimli olarak ödeyebilir miyim,borcodeme,0
+76,kart borcumu indirimli olarak ödeyebilir miyim,borcodeme,0
+77,kredi kartı borcumu ödeyememekten dolayı endişeliyim,borcodeme,0
+78,kart borcumu ödeyememekten dolayı endişeliyim,borcodeme,0
+79,kredi kartı borcumu ödemediğim için ceza alır mıyım,borcodeme,0
+80,kart borcumu ödemediğim için ceza alır mıyım,borcodeme,0
+81,kredi kartı borcumu banka hesabımdan otomatik olarak ödemek istiyorum,borcodeme,0
+82,kart borcumu banka hesabımdan otomatik olarak ödemek istiyorum,borcodeme,0
+83,kredi kartı borcumu ödeyebilmek için bütçe planı yapıyorum,borcodeme,0
+84,kart borcumu ödeyebilmek için bütçe planı yapıyorum,borcodeme,0
+85,kredi kartı borcumu ödemediğimde ne olur,borcodeme,0
+86,kart borcumu ödemediğimde ne olur,borcodeme,0
+87,kredi kartı borcumu sadece asgari tutarı ödemek istiyorum,borcodeme,0
+88,kart borcumu sadece asgari tutarı ödemek istiyorum,borcodeme,0
+89,kredi kartı borcumu banka müşteri hizmetleriyle görüşerek çözmek istiyorum,borcodeme,0
+90,kart borcumu banka müşteri hizmetleriyle görüşerek çözmek istiyorum,borcodeme,0
+91,kredi kartı borcumu ödeme planı oluşturmak istiyorum,borcodeme,0
+92,kart borcumu ödeme planı oluşturmak istiyorum,borcodeme,0
+93,kredi kartı borcumu ödeyebilmek için ek iş arıyorum,borcodeme,0
+94,kart borcumu ödeyebilmek için ek iş arıyorum,borcodeme,0
+95,kredi kartı borcumu düzenli olarak takip ediyorum,borcodeme,0
+96,kart borcumu düzenli olarak takip ediyorum,borcodeme,0
+97,kredi kartı borcumu taksitlendirme yapabilirim mi,borcodeme,0
+98,kart borcumu taksitlendirme yapabilirim mi,borcodeme,0
+99,kredi kartı borcumu ödemek için ailemden yardım istiyorum,borcodeme,0
+100,kart borcumu ödemek için ailemden yardım istiyorum,borcodeme,0
+0,hesap açtırmak istiyorum,hesapactirma,3
+1,yeni bir hesap açtırmak istiyorum,hesapactirma,3
+2,banka hesabı açtırmak istiyorum,hesapactirma,3
+3,yeni bir banka hesabı açtırmak istiyorum,hesapactirma,3
+4,hesap açma işlemi nasıl yapılır,hesapactirma,3
+5,banka hesabı açma süreci nedir,hesapactirma,3
+6,yeni bir hesap açmanın gereksinimleri nelerdir,hesapactirma,3
+7,banka hesabı açma için gerekli belgeler nelerdir,hesapactirma,3
+8,hesap açma için hangi dokümanlara ihtiyacım var,hesapactirma,3
+9,hesap açma işlemi ne kadar sürer,hesapactirma,3
+10,banka hesabı açma işlemi ücretli mi,hesapactirma,3
+11,hesap açma işlemi için randevu almak gerekiyor mu,hesapactirma,3
+12,hesap açma işlemi için banka şubesine gitmek zorunlu mu,hesapactirma,3
+13,online olarak hesap açabilir miyim,hesapactirma,3
+14,telefon bankacılığı üzerinden hesap açabilir miyim,hesapactirma,3
+15,mobil uygulama üzerinden hesap açabilir miyim,hesapactirma,3
+16,hesap açma işlemi için yaş sınırı var mı,hesapactirma,3
+17,18 yaşından küçük biri banka hesabı açabilir mi,hesapactirma,3
+18,hesap açma işlemi için gerekli olan bilgiler nelerdir,hesapactirma,3
+19,bir hesap açarken nelere dikkat etmeliyim,hesapactirma,3
+20,hesap açma işlemi güvenli mi,hesapactirma,3
+21,hesap açma işlemi sonrasında ne yapmalıyım,hesapactirma,3
+22,yeni banka hesabımı nasıl kullanabilirim,hesapactirma,3
+23,hesap açma işlemi için hangi bankayı tercih etmeliyim,hesapactirma,3
+24,hesap açma işlemi için gereken minimum miktar nedir,hesapactirma,3
+25,bir banka hesabı açmanın avantajları nelerdir,hesapactirma,3
+26,hesap açma işlemi için yıllık ücret alınır mı,hesapactirma,3
+27,hesap açma işlemi sırasında hangi bilgileri vermem gerekiyor,hesapactirma,3
+28,hesap açma işlemi sırasında kimlik fotokopisi gerekli mi,hesapactirma,3
+29,bir banka hesabı açmak için hangi şartları sağlamalıyım,hesapactirma,3
+30,yeni bir hesap açmak için ne kadar para gerekiyor,hesapactirma,3
+31,bir hesap açmak için hangi banka şubesine gitmeliyim,hesapactirma,3
+32,hesap açma işlemi için gereken belgeler nelerdir,hesapactirma,3
+33,banka hesabı açma işlemi için gereken yaş sınırı nedir,hesapactirma,3
+34,yeni bir hesap açmak için hangi adımları izlemeliyim,hesapactirma,3
+35,hesap açma işlemi sırasında hangi bilgileri vermem gerekiyor,hesapactirma,3
+36,hesap açma işlemi için ne kadar süre gerekiyor,hesapactirma,3
+37,bir banka hesabı açmanın maliyetleri nelerdir,hesapactirma,3
+38,hesap açma işlemi için gerekli olan evraklar nelerdir,hesapactirma,3
+39,yeni bir hesap açmanın avantajları nelerdir,hesapactirma,3
+40,hesap açma işlemi sırasında dikkat edilmesi gereken noktalar nelerdir,hesapactirma,3
+41,hesap açma işlemi için gerekli olan bilgileri nasıl sağlayabilirim,hesapactirma,3
+42,yeni bir hesap açma işlemi için hangi bankaları tercih etmeliyim,hesapactirma,3
+43,hesap açma işlemi sırasında dikkat edilmesi gereken güvenlik önlemleri nelerdir,hesapactirma,3
+44,bir hesap açma işlemi için banka şubesine gitmeden yapabileceğim bir yol var mı,hesapactirma,3
+45,hesap açma işlemi sonrasında hesap kullanımı hakkında neler bilinmeli,hesapactirma,3
+46,hesap açma işlemi sırasında banka tarafından istenebilecek ek belgeler nelerdir,hesapactirma,3
+47,yeni bir banka hesabı açma işlemi için hangi bankanın şubeleri daha yaygın,hesapactirma,3
+48,bir hesap açma işlemi sırasında dikkat edilmesi gereken yasal haklar nelerdir,hesapactirma,3
+49,hesap açma işlemi sırasında banka tarafından verilen hizmetler nelerdir,hesapactirma,3
+0,müşteri hizmetleri numarasını aramak istiyorum,musterihizmetleri,4
+1,şikayetimi müşteri hizmetlerine iletmek istiyorum,musterihizmetleri,4
+2,müşteri hizmetlerine bir soru sormak istiyorum,musterihizmetleri,4
+3,bir ürün hakkında bilgi almak için müşteri hizmetlerini aramak istiyorum,musterihizmetleri,4
+4,müşteri hizmetleri temsilcisiyle görüşmek istiyorum,musterihizmetleri,4
+5,bir siparişimle ilgili yardım almak için müşteri hizmetlerini aramak istiyorum,musterihizmetleri,4
+6,müşteri hizmetleri desteği almak istiyorum,musterihizmetleri,4
+7,müşteri hizmetlerine e-posta göndermek istiyorum,musterihizmetleri,4
+8,ürün iadesi hakkında müşteri hizmetlerinden bilgi almak istiyorum,musterihizmetleri,4
+9,bir fatura hakkında bilgi almak için müşteri hizmetlerini aramak istiyorum,musterihizmetleri,4
+10,müşteri hizmetleriyle canlı sohbet etmek istiyorum,musterihizmetleri,4
+11,bir ürünün teslimat durumu hakkında bilgi almak için müşteri hizmetlerini aramak istiyorum,musterihizmetleri,4
+12,ürün garantisi hakkında bilgi almak için müşteri hizmetlerini aramak istiyorum,musterihizmetleri,4
+13,müşteri hizmetlerini hafta içi ulaşabileceğim saatler hakkında bilgi almak istiyorum,musterihizmetleri,4
+14,bir hizmet aboneliği iptali için müşteri hizmetlerini aramak istiyorum,musterihizmetleri,4
+15,müşteri hizmetlerine bir öneri iletmek istiyorum,musterihizmetleri,4
+16,müşteri hizmetlerini hafta sonu ulaşabileceğim saatler hakkında bilgi almak istiyorum,musterihizmetleri,4
+17,müşteri hizmetlerine talep formu doldurmak istiyorum,musterihizmetleri,4
+18,bir ürünü değiştirmek için müşteri hizmetlerini aramak istiyorum,musterihizmetleri,4
+19,müşteri hizmetlerinden yardım alarak bir sipariş vermeyi planlıyorum,musterihizmetleri,4
+20,müşteri hizmetlerinden bir ürünün geri gönderim prosedürü hakkında bilgi almak istiyorum,musterihizmetleri,4
+21,müşteri hizmetlerine bir şikayetimi iletmek istiyorum,musterihizmetleri,4
+22,müşteri hizmetleriyle iletişime geçmek istiyorum,musterihizmetleri,4
+23,müşteri hizmetlerine bir ürünün stok durumu hakkında sormak istiyorum,musterihizmetleri,4
+24,müşteri hizmetlerinden bir hizmetin fiyatlandırması hakkında bilgi almak istiyorum,musterihizmetleri,4
+25,bir ürünle ilgili teknik destek almak için müşteri hizmetlerini aramak istiyorum,musterihizmetleri,4
+26,müşteri hizmetleri numarasını nasıl bulabilirim,musterihizmetleri,4
+27,müşteri hizmetlerinden bir abonelik iptalini onaylamak istiyorum,musterihizmetleri,4
+28,müşteri hizmetlerine bir fatura ödemesi hakkında bilgi almak istiyorum,musterihizmetleri,4
+29,müşteri hizmetlerine bir siparişimin teslimat adresini güncellemek istiyorum,musterihizmetleri,4
+30,müşteri hizmetlerinden bir ürünün montaj talimatlarını almak istiyorum,musterihizmetleri,4
+31,müşteri hizmetlerinden bir ürünün iadesi için talimatlar almak istiyorum,musterihizmetleri,4
+32,müşteri hizmetlerine bir ödeme planı hakkında bilgi almak istiyorum,musterihizmetleri,4
+33,müşteri hizmetlerine bir siparişin durumu hakkında bilgi almak istiyorum,musterihizmetleri,4
+34,müşteri hizmetlerine bir ürünün satın alma koşulları hakkında bilgi almak istiyorum,musterihizmetleri,4
+35,müşteri hizmetlerinden bir ürünün kullanım kılavuzunu almak istiyorum,musterihizmetleri,4
+36,müşteri hizmetlerine bir ürünün iade süreci hakkında bilgi almak istiyorum,musterihizmetleri,4
+37,müşteri hizmetlerine bir ürünün servis ağı hakkında sormak istiyorum,musterihizmetleri,4
+38,müşteri hizmetlerine bir ürünün kullanımı hakkında bilgi almak istiyorum,musterihizmetleri,4
+39,müşteri hizmetlerine bir ürünün garanti koşulları hakkında bilgi almak istiyorum,musterihizmetleri,4
+40,müşteri hizmetlerinden bir ürünün iadesinin onayını almak istiyorum,musterihizmetleri,4
+41,müşteri hizmetlerine bir ürünün özellikleri hakkında bilgi almak istiyorum,musterihizmetleri,4
+42,müşteri hizmetlerine bir ürünün kargo takibini sormak istiyorum,musterihizmetleri,4
+43,müşteri hizmetlerine bir ürünün ödeme koşulları hakkında bilgi almak istiyorum,musterihizmetleri,4
+44,müşteri hizmetlerine bir hizmetin aboneliğini yenilemek istiyorum,musterihizmetleri,4
+45,müşteri hizmetlerinden bir hizmetin iptalini onaylamak istiyorum,musterihizmetleri,4
+46,müşteri hizmetlerine bir hizmetin faturalandırma dönemini değiştirmek istiyorum,musterihizmetleri,4
+47,müşteri hizmetlerine bir hizmetin fiyatlandırma bilgisini güncellemek istiyorum,musterihizmetleri,4
+48,müşteri hizmetlerinden bir hizmetin kullanım koşullarını değiştirmek istiyorum,musterihizmetleri,4
+49,müşteri hizmetlerine bir hizmetin abonelik süresini uzatmak istiyorum,musterihizmetleri,4
+0,kredi başvurusu yapmak istiyorum,kredi,5
+1,kredi almak istiyorum,kredi,5
+2,kredi çekmek istiyorum,kredi,5
+3,kredi başvurusu nasıl yapılır,kredi,5
+4,kredi almanın şartları nelerdir,kredi,5
+5,kredi başvurusu için gereken belgeler nelerdir,kredi,5
+6,kredi çekme işlemi nasıl yapılır,kredi,5
+7,kredi notu nedir,kredi,5
+8,kredi notu nasıl yükseltilir,kredi,5
+9,kredi kullanmanın avantajları nelerdir,kredi,5
+10,kredi kullanmanın dezavantajları nelerdir,kredi,5
+11,kredi faiz oranları ne kadar,kredi,5
+12,kredi faiz oranlarını nasıl öğrenebilirim,kredi,5
+13,kredi taksitlerini nasıl hesaplarım,kredi,5
+14,kredi taksit tutarlarını öğrenmek istiyorum,kredi,5
+15,kredi ödeme planı nasıl oluşturulur,kredi,5
+16,kredi borcumu nasıl ödeyebilirim,kredi,5
+17,kredi geri ödeme süresi ne kadar,kredi,5
+18,kredi başvurusu sırasında dikkat edilmesi gerekenler nelerdir,kredi,5
+19,kredi çekmenin riskleri nelerdir,kredi,5
+20,kredi başvurusu için gerekli olan evraklar nelerdir,kredi,5
+21,kredi başvurusu için gereken koşullar nelerdir,kredi,5
+22,kredi notu düşük olanlar kredi alabilir mi,kredi,5
+23,kredi çekerken nelere dikkat etmeliyim,kredi,5
+24,kredi kullanmanın faydaları nelerdir,kredi,5
+25,kredi taksitlerini zamanında ödemem önemli mi,kredi,5
+26,kredi başvurusu reddedilirse ne yapmalıyım,kredi,5
+27,kredi kartı borcumu kredi ile kapatmalı mıyım,kredi,5
+28,kredi kullanmanın dezavantajları nelerdir,kredi,5
+29,kredi geri ödeme planımı nasıl oluşturabilirim,kredi,5
+30,kredi kullanmanın maliyetleri nelerdir,kredi,5
+31,kredi kartı borcumu krediye çevirebilir miyim,kredi,5
+32,kredi kullanarak ev almak istiyorum,kredi,5
+33,kredi kullanarak araba almak istiyorum,kredi,5
+34,kredi almadan önce dikkat edilmesi gerekenler nelerdir,kredi,5
+35,kredi başvurusu sonucunu nasıl öğrenebilirim,kredi,5
+36,kredi kullanarak yatırım yapmak istiyorum,kredi,5
+37,kredi kullanarak iş kurmak istiyorum,kredi,5
+38,kredi notu düşük olanlar nasıl kredi alabilir,kredi,5
+39,kredi çekmek için gerekli şartlar nelerdir,kredi,5
+40,kredi geri ödeme planımı nasıl değiştirebilirim,kredi,5
+41,kredi almanın adımları nelerdir,kredi,5
+42,kredi kartı borcumu kapatmak için kredi çekmeli miyim,kredi,5
+43,kredi kullanmanın avantajları ve dezavantajları nelerdir,kredi,5
+44,kredi kullanmanın riskleri nelerdir,kredi,5
+45,kredi çekerken nelere dikkat etmeliyim,kredi,5
+46,kredi almak için gereken belgeleri nereden temin edebilirim,kredi,5
+47,kredi başvurusu için hangi bankayı tercih etmeliyim,kredi,5
+48,kredi kartı borcumu ödemek için kredi çekmeli miyim,kredi,5
+49,kredi kullanarak borçlarımı kapatmak istiyorum,kredi,5
+0,kampanyalardan haberdar olmak istiyorum,kampanya,6
+1,kampanyalardan nasıl faydalanabilirim,kampanya,6
+2,kampanyalı ürünler nelerdir,kampanya,6
+3,indirim kampanyaları hakkında bilgi almak istiyorum,kampanya,6
+4,yaklaşan kampanyalar nelerdir,kampanya,6
+5,alışveriş kampanyalarından nasıl yararlanabilirim,kampanya,6
+6,kampanya kodları nasıl kullanılır,kampanya,6
+7,özel indirim kampanyaları hakkında bilgi almak istiyorum,kampanya,6
+8,kampanya dönemlerindeki indirimlerden nasıl faydalanabilirim,kampanya,6
+9,kampanya takip etmek istiyorum,kampanya,6
+10,kampanyalı ürünler nerede satılıyor,kampanya,6
+11,alışveriş kampanyaları ne zaman başlıyor,kampanya,6
+12,kampanya haberleri almak istiyorum,kampanya,6
+13,kampanya dönemlerindeki fiyat indirimleri hakkında bilgi almak istiyorum,kampanya,6
+14,kampanya kodlarını nereden bulabilirim,kampanya,6
+15,kampanya dönemlerindeki özel fırsatlardan nasıl haberdar olabilirim,kampanya,6
+16,kampanyalı ürünlerin detaylarını öğrenmek istiyorum,kampanya,6
+17,kampanya dönemlerindeki indirimler ne kadar,kampanya,6
+18,kampanya dönemlerindeki özel teklifler nelerdir,kampanya,6
+19,kampanya haberleri nereden takip edebilirim,kampanya,6
+20,kampanya kodlarını nasıl kullanabilirim,kampanya,6
+21,alışveriş kampanyaları hangi ürünlerde geçerli,kampanya,6
+22,kampanya dönemlerindeki indirimler kaç gün sürüyor,kampanya,6
+23,kampanya dönemlerindeki özel fırsatlar nelerdir,kampanya,6
+24,kampanya dönemlerindeki indirimleri kaçırmak istemiyorum,kampanya,6
+25,kampanya dönemlerindeki indirimler hangi mağazalarda geçerli,kampanya,6
+26,kampanyalı ürünlerin avantajları nelerdir,kampanya,6
+27,kampanya dönemlerindeki indirimler nasıl takip edilir,kampanya,6
+28,kampanya dönemlerindeki özel teklifler ne zaman başlıyor,kampanya,6
+29,kampanyalı ürünler hangi kategorilerde bulunuyor,kampanya,6
+30,kampanya kodlarını nereden alabilirim,kampanya,6
+31,kampanya dönemlerindeki indirimler ne zaman sona eriyor,kampanya,6
+32,kampanya dönemlerindeki özel fırsatlar ne zaman sona eriyor,kampanya,6
+33,kampanya dönemlerindeki indirimlerin şartları nelerdir,kampanya,6
+34,kampanya dönemlerindeki özel teklifler hangi ürünlerde geçerli,kampanya,6
+35,kampanya dönemlerindeki indirimler kaç yıldır yapılmaktadır,kampanya,6
+36,kampanyalı ürünlerin fiyat avantajları nelerdir,kampanya,6
+37,kampanya dönemlerindeki indirimler hangi ürün gruplarında geçerli,kampanya,6
+38,kampanya dönemlerindeki özel teklifler hangi mağazalarda geçerli,kampanya,6
+39,kampanya dönemlerindeki indirimlerin geçerli olduğu süre ne kadardır,kampanya,6
+40,kampanya dönemlerindeki özel tekliflerin şartları nelerdir,kampanya,6
+41,kampanya dönemlerindeki indirimlerin fiyat avantajları nelerdir,kampanya,6
+42,kampanya dönemlerindeki özel fırsatların süresi ne kadardır,kampanya,6
+43,kampanyalı ürünlerin alışverişe olan etkisi nedir,kampanya,6
+44,kampanya dönemlerindeki indirimlerin etkisi nedir,kampanya,6
+45,kampanya dönemlerindeki özel fırsatların alışverişe olan etkisi nedir,kampanya,6
+46,kampanya dönemlerindeki indirimlerin avantajları nelerdir,kampanya,6
+47,kampanya dönemlerindeki özel tekliflerin avantajları nelerdir,kampanya,6
+48,kampanya dönemlerindeki indirimlerin fiyat avantajları nelerdir,kampanya,6
+49,kampanya dönemlerindeki özel fırsatların fiyat avantajları nelerdir,kampanya,6
+0,kart iptali yapmak istiyorum,kartiptali,7
+1,kredi kartımı iptal etmek istiyorum,kartiptali,7
+2,kredi kartımdan vazgeçmek istiyorum,kartiptali,7
+3,kredi kartımdan memnun değilim,kartiptali,7
+4,kredi kartı aidatını ödemek istemiyorum,kartiptali,7
+5,kredi kartımdaki limiti düşürmek istiyorum,kartiptali,7
+6,kredi kartı kullanmaktan vazgeçmek istiyorum,kartiptali,7
+7,kredi kartımdaki borcu kapatmak istiyorum,kartiptali,7
+8,kredi kartımı kullanmayı bırakmak istiyorum,kartiptali,7
+9,kredi kartımdan şikayetçiyim,kartiptali,7
+10,kredi kartımdan dolayı sıkıntı yaşıyorum,kartiptali,7
+11,kredi kartımdan memnun değilim,kartiptali,7
+12,kredi kartımdaki faiz oranlarından rahatsızım,kartiptali,7
+13,kredi kartımdaki ek ücretleri ödemek istemiyorum,kartiptali,7
+14,kredi kartımdaki puan sisteminden memnun değilim,kartiptali,7
+15,kredi kartımdaki hizmetlerden memnun değilim,kartiptali,7
+16,kredi kartımda yaşadığım güvenlik sorunlarından dolayı iptal etmek istiyorum,kartiptali,7
+17,kredi kartımın taksitlendirme seçeneklerinden memnun değilim,kartiptali,7
+18,kredi kartımın yıllık ücretini ödemek istemiyorum,kartiptali,7
+19,kredi kartımın kullanımını sonlandırmak istiyorum,kartiptali,7
+20,kredi kartımın aidatını geri almak istiyorum,kartiptali,7
+21,kredi kartımın iptali için başvuruda bulunmak istiyorum,kartiptali,7
+22,kredi kartımı iptal etmek için ne yapmalıyım,kartiptali,7
+23,kredi kartı iptali nasıl yapılır,kartiptali,7
+24,kredi kartı iptali için hangi belgeler gerekli,kartiptali,7
+25,kredi kartı iptal prosedürü nedir,kartiptali,7
+26,kredi kartı iptal dilekçesi örneği,kartiptali,7
+27,kredi kartı iptal işlemleri ne kadar sürer,kartiptali,7
+28,kredi kartı iptali sonrası borçlar ne olur,kartiptali,7
+29,kredi kartı iptal etmek için ne kadar ödeme yapmalıyım,kartiptali,7
+30,kredi kartı iptal işlemi ücretsiz mi,kartiptali,7
+31,kredi kartı iptali sonrası kredi notu etkilenir mi,kartiptali,7
+32,kredi kartı iptal ettikten sonra yeni kart alabilir miyim,kartiptali,7
+33,kredi kartı iptal etmek için gereken şartlar nelerdir,kartiptali,7
+34,kredi kartı iptal ettikten sonra ek kart iptal edilmeli mi,kartiptali,7
+35,kredi kartı iptali sonrası borçlar nasıl ödenir,kartiptali,7
+36,kredi kartı iptali yapmak için bankaya gitmek gerekiyor mu,kartiptali,7
+37,kredi kartı iptali işlemi ne kadar sürer,kartiptali,7
+38,kredi kartı iptal ettikten sonra aidat iadesi nasıl alınır,kartiptali,7
+39,kredi kartı iptali sonrası kartın kullanımı devam eder mi,kartiptali,7
+40,kredi kartı iptali işlemi online olarak yapılabilir mi,kartiptali,7
+41,kredi kartı iptal etmek için ne kadar süre beklemeliyim,kartiptali,7
+42,kredi kartı iptali sonrası aidat iadesi ne kadar sürede yapılır,kartiptali,7
+43,kredi kartı iptal etmek için nereye başvurmalıyım,kartiptali,7
+44,kredi kartı iptali sırasında dikkat edilmesi gerekenler nelerdir,kartiptali,7
+45,kredi kartı iptali sonrası yeni kart ne zaman gelir,kartiptali,7
+46,kredi kartı iptali işlemi sonrası kartın kullanımı ne zaman sona erer,kartiptali,7
+47,kredi kartı iptali sonrası banka ne yapar,kartiptali,7
+48,kredi kartı iptali işlemi sonrası borçlar nasıl kapatılır,kartiptali,7
+49,kredi kartı iptali sonrası kredi kartı aidatı iadesi ne zaman yapılır,kartiptali,7
+50,kredi kartı aidatını geri almak istiyorum,kartiptali,7
+51,kredi kartımı kullanmayı düşünmüyorum,kartiptali,7
+52,kredi kartı kullanmaktan vazgeçtim,kartiptali,7
+53,kredi kartı aidatı ödemek istemiyorum,kartiptali,7
+54,kredi kartımdaki limiti artırmak istemiyorum,kartiptali,7
+55,kredi kartı aidatını geri ödemek istiyorum,kartiptali,7
+56,kredi kartımda yaşadığım sorunlar nedeniyle iptal etmek istiyorum,kartiptali,7
+57,kredi kartımdaki faiz oranlarını ödemek istemiyorum,kartiptali,7
+58,kredi kartımdaki ek ücretlerden memnun değilim,kartiptali,7
+59,kredi kartımdaki puan sistemi işe yaramıyor,kartiptali,7
+60,kredi kartımdaki hizmetlerden şikayetçiyim,kartiptali,7
+61,kredi kartımda güvenlik sorunları yaşıyorum,kartiptali,7
+62,kredi kartımdaki taksitlendirme seçenekleri uygun değil,kartiptali,7
+63,kredi kartımdaki yıllık ücretten rahatsızım,kartiptali,7
+64,kredi kartımı kullanmak istemiyorum,kartiptali,7
+65,kredi kartımın aidatını geri almak istiyorum,kartiptali,7
+66,kredi kartımdaki limiti düşürmek istemiyorum,kartiptali,7
+67,kredi kartımdaki borcu kapatmak istemiyorum,kartiptali,7
+68,kredi kartımdaki ek ücretleri geri almak istiyorum,kartiptali,7
+69,kredi kartımdaki puan sistemi işe yaramıyor,kartiptali,7
+70,kredi kartımdaki hizmetlerden şikayetçiyim,kartiptali,7
+71,kredi kartımda güvenlik sorunları yaşıyorum,kartiptali,7
+72,kredi kartımdaki taksitlendirme seçenekleri uygun değil,kartiptali,7
+73,kredi kartımdaki yıllık ücretten rahatsızım,kartiptali,7
+74,kredi kartımı kullanmak istemiyorum,kartiptali,7
+75,kredi kartımın aidatını geri almak istiyorum,kartiptali,7
+76,kredi kartımdaki limiti düşürmek istemiyorum,kartiptali,7
+77,kredi kartımdaki borcu kapatmak istemiyorum,kartiptali,7
+78,kredi kartımdaki ek ücretleri geri almak istiyorum,kartiptali,7
+79,kredi kartımdaki puan sistemi işe yaramıyor,kartiptali,7
+80,kredi kartımdaki hizmetlerden şikayetçiyim,kartiptali,7
+81,kredi kartımda güvenlik sorunları yaşıyorum,kartiptali,7
+82,kredi kartımdaki taksitlendirme seçenekleri uygun değil,kartiptali,7
+83,kredi kartımdaki yıllık ücretten rahatsızım,kartiptali,7
+84,kredi kartımı kullanmak istemiyorum,kartiptali,7
+85,kredi kartımın aidatını geri almak istiyorum,kartiptali,7
+86,kredi kartımdaki limiti düşürmek istemiyorum,kartiptali,7
+87,kredi kartımdaki borcu kapatmak istemiyorum,kartiptali,7
+88,kredi kartımdaki ek ücretleri geri almak istiyorum,kartiptali,7
+89,kredi kartımdaki puan sistemi işe yaramıyor,kartiptali,7
+90,kredi kartımdaki hizmetlerden şikayetçiyim,kartiptali,7
+91,kredi kartımda güvenlik sorunları yaşıyorum,kartiptali,7
+92,kredi kartımdaki taksitlendirme seçenekleri uygun değil,kartiptali,7
+93,kredi kartımdaki yıllık ücretten rahatsızım,kartiptali,7
+94,kredi kartımı kullanmak istemiyorum,kartiptali,7
+95,kredi kartımın aidatını geri almak istiyorum,kartiptali,7
+96,kredi kartımdaki limiti düşürmek istemiyorum,kartiptali,7
+97,kredi kartımdaki borcu kapatmak istemiyorum,kartiptali,7
+98,kredi kartımdaki ek ücretleri geri almak istiyorum,kartiptali,7
+99,kredi kartımdaki puan sistemi işe yaramıyor,kartiptali,7
+0,kredi kartı istemiyorum bu yüzden hesabımı kapatmak istiyorum,hesapkapatma,8
+1,kredi kartımı kullanmayı bırakmak istiyorum,hesapkapatma,8
+2,kredi kartı aidatından şikayetçiyim,hesapkapatma,8
+3,kredi kartımdaki yıllık ücreti ödemek istemiyorum,hesapkapatma,8
+4,kredi kartımı kapatmak istiyorum,hesapkapatma,8
+5,kredi kartımdaki ek masraflardan memnun değilim,hesapkapatma,8
+6,kredi kartı aidatını geri almak istiyorum,hesapkapatma,8
+7,kredi kartımla ilgili hizmetleri iptal etmek istiyorum,hesapkapatma,8
+8,kredi kartımdaki borcu kapatmak istiyorum,hesapkapatma,8
+9,kredi kartımdaki puan sistemi işe yaramıyor,hesapkapatma,8
+10,kredi kartı kullanmamak istiyorum,hesapkapatma,8
+11,kredi kartımdaki limiti düşürmek istiyorum,hesapkapatma,8
+12,kredi kartımdaki taksitlendirme seçenekleri uygun değil,hesapkapatma,8
+13,kredi kartımdan memnun değilim,hesapkapatma,8
+14,kredi kartımdaki aidatı geri almak istiyorum,hesapkapatma,8
+15,kredi kartımda yaşadığım sorunlar nedeniyle hesabımı kapatmak istiyorum,hesapkapatma,8
+16,kredi kartımdaki puan sisteminden memnun değilim,hesapkapatma,8
+17,kredi kartımı iptal etmek istiyorum,hesapkapatma,8
+18,kredi kartımdaki ek masrafları geri almak istiyorum,hesapkapatma,8
+19,kredi kartımı kullanmak istemiyorum,hesapkapatma,8
+20,kredi kartımdaki aidatı ödemek istemiyorum,hesapkapatma,8
+21,kredi kartımdaki yıllık ücretten memnun değilim,hesapkapatma,8
+22,kredi kartı aidatını iptal etmek istiyorum,hesapkapatma,8
+23,kredi kartımdaki faiz oranlarından memnun değilim,hesapkapatma,8
+24,kredi kartımdaki ek ücretlerden rahatsızım,hesapkapatma,8
+25,kredi kartımda yaşadığım sıkıntılardan dolayı kapatmak istiyorum,hesapkapatma,8
+26,kredi kartımdaki yıllık ücretten şikayetçiyim,hesapkapatma,8
+27,kredi kartımdaki ek masrafları kaldırmak istiyorum,hesapkapatma,8
+28,kredi kartı kullanmak istemiyorum,hesapkapatma,8
+29,kredi kartımdaki limiti düşürmek istiyorum,hesapkapatma,8
+30,kredi kartımdaki taksitlendirme seçenekleri uygun değil,hesapkapatma,8
+31,kredi kartımdaki aidatı iptal etmek istiyorum,hesapkapatma,8
+32,kredi kartımdaki borcu kapatmak istiyorum,hesapkapatma,8
+33,kredi kartımdaki puan sisteminden memnun değilim,hesapkapatma,8
+34,kredi kartımı iptal etmek istiyorum,hesapkapatma,8
+35,kredi kartımdaki ek ücretleri geri almak istiyorum,hesapkapatma,8
+36,kredi kartımı kullanmak istemiyorum,hesapkapatma,8
+37,kredi kartımdaki aidatı ödemek istemiyorum,hesapkapatma,8
+38,kredi kartımdaki yıllık ücretten memnun değilim,hesapkapatma,8
+39,kredi kartı aidatını iptal etmek istiyorum,hesapkapatma,8
+40,kredi kartımdaki faiz oranlarından memnun değilim,hesapkapatma,8
+41,kredi kartımdaki ek ücretlerden rahatsızım,hesapkapatma,8
+42,kredi kartımda yaşadığım sıkıntılardan dolayı kapatmak istiyorum,hesapkapatma,8
+43,kredi kartımdaki yıllık ücretten şikayetçiyim,hesapkapatma,8
+44,kredi kartımdaki ek masrafları kaldırmak istiyorum,hesapkapatma,8
+45,kredi kartı kullanmak istemiyorum,hesapkapatma,8
+46,kredi kartımdaki limiti düşürmek istiyorum,hesapkapatma,8
+47,kredi kartımdaki taksitlendirme seçenekleri uygun değil,hesapkapatma,8
+48,kredi kartımdaki aidatı iptal etmek istiyorum,hesapkapatma,8
+49,kredi kartımdaki borcu kapatmak istiyorum,hesapkapatma,8
+0,kredi kartı istemiyorum bu yüzden hesabımı kapatmak istiyorum,hesapkapatma,8
+1,kredi kartımı kullanmayı bırakmak istiyorum,hesapkapatma,8
+2,kredi kartı aidatından şikayetçiyim,hesapkapatma,8
+3,kredi kartımdaki yıllık ücreti ödemek istemiyorum,hesapkapatma,8
+4,kredi kartımı kapatmak istiyorum,hesapkapatma,8
+5,kredi kartımdaki ek masraflardan memnun değilim,hesapkapatma,8
+6,kredi kartı aidatını geri almak istiyorum,hesapkapatma,8
+7,kredi kartımla ilgili hizmetleri iptal etmek istiyorum,hesapkapatma,8
+8,kredi kartımdaki borcu kapatmak istiyorum,hesapkapatma,8
+9,kredi kartımdaki puan sistemi işe yaramıyor,hesapkapatma,8
+10,kredi kartı kullanmamak istiyorum,hesapkapatma,8
+11,kredi kartımdaki limiti düşürmek istiyorum,hesapkapatma,8
+12,kredi kartımdaki taksitlendirme seçenekleri uygun değil,hesapkapatma,8
+13,kredi kartımdan memnun değilim,hesapkapatma,8
+14,kredi kartımdaki aidatı geri almak istiyorum,hesapkapatma,8
+15,kredi kartımda yaşadığım sorunlar nedeniyle hesabımı kapatmak istiyorum,hesapkapatma,8
+16,kredi kartımdaki puan sisteminden memnun değilim,hesapkapatma,8
+17,kredi kartımı iptal etmek istiyorum,hesapkapatma,8
+18,kredi kartımdaki ek masrafları geri almak istiyorum,hesapkapatma,8
+19,kredi kartımı kullanmak istemiyorum,hesapkapatma,8
+20,kredi kartımdaki aidatı ödemek istemiyorum,hesapkapatma,8
+21,kredi kartımdaki yıllık ücretten memnun değilim,hesapkapatma,8
+22,kredi kartı aidatını iptal etmek istiyorum,hesapkapatma,8
+23,kredi kartımdaki faiz oranlarından memnun değilim,hesapkapatma,8
+24,kredi kartımdaki ek ücretlerden rahatsızım,hesapkapatma,8
+25,kredi kartımda yaşadığım sıkıntılardan dolayı kapatmak istiyorum,hesapkapatma,8
+26,kredi kartımdaki yıllık ücretten şikayetçiyim,hesapkapatma,8
+27,kredi kartımdaki ek masrafları kaldırmak istiyorum,hesapkapatma,8
+28,kredi kartı kullanmak istemiyorum,hesapkapatma,8
+29,kredi kartımdaki limiti düşürmek istiyorum,hesapkapatma,8
+30,kredi kartımdaki taksitlendirme seçenekleri uygun değil,hesapkapatma,8
+31,kredi kartımdaki aidatı iptal etmek istiyorum,hesapkapatma,8
+32,kredi kartımdaki borcu kapatmak istiyorum,hesapkapatma,8
+33,kredi kartımdaki puan sisteminden memnun değilim,hesapkapatma,8
+34,kredi kartımı iptal etmek istiyorum,hesapkapatma,8
+35,kredi kartımdaki ek ücretleri geri almak istiyorum,hesapkapatma,8
+36,kredi kartımı kullanmak istemiyorum,hesapkapatma,8
+37,kredi kartımdaki aidatı ödemek istemiyorum,hesapkapatma,8
+38,kredi kartımdaki yıllık ücretten memnun değilim,hesapkapatma,8
+39,kredi kartı aidatını iptal etmek istiyorum,hesapkapatma,8
+40,kredi kartımdaki faiz oranlarından memnun değilim,hesapkapatma,8
+41,kredi kartımdaki ek ücretlerden rahatsızım,hesapkapatma,8
+42,kredi kartımda yaşadığım sıkıntılardan dolayı kapatmak istiyorum,hesapkapatma,8
+43,kredi kartımdaki yıllık ücretten şikayetçiyim,hesapkapatma,8
+44,kredi kartımdaki ek masrafları kaldırmak istiyorum,hesapkapatma,8
+45,kredi kartı kullanmak istemiyorum,hesapkapatma,8
+46,kredi kartımdaki limiti düşürmek istiyorum,hesapkapatma,8
+47,kredi kartımdaki taksitlendirme seçenekleri uygun değil,hesapkapatma,8
+48,kredi kartımdaki aidatı iptal etmek istiyorum,hesapkapatma,8
+49,kredi kartımdaki borcu kapatmak istiyorum,hesapkapatma,8
+
+
+
+
